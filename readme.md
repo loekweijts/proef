@@ -15,3 +15,6 @@ Nog wat geneuzel hier.
 sdfdsf
 
 ## ontbijt
+
+## copyright
+hier wat info
